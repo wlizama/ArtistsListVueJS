@@ -25,9 +25,9 @@ export default {
             countries : [
                 { name : "Argentina" , value : "argentina" },
                 { name : "España" , value : "spain" },
-                { name : "Perú" , value : "peru" }
+                { name : "Perú" , value : "peru" },
             ],
-            selectedCountry : "argentina",
+            selectedCountry : "peru",
             artists : []
         }
     },
